@@ -21,4 +21,4 @@ Document：存放项目文档和打包的安卓APK文件。
 
 ### 运行示例
 [运行示例](https://img.wenhairu.com/image/NxZRK)  
-![](https://cdn.img.wenhairu.com/images/2020/04/24/NxZRK.md.png)
+![](https://cdn.img.wenhairu.com/images/2020/04/24/NxZRK.png)
