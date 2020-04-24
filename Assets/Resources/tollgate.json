@@ -1,0 +1,222 @@
+{
+        "1" : {
+                "size" : {
+                        "row" : 7,
+                        "column" : 7
+                },
+		"map" : [
+			{ "x":0, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 4, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":4, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 0, "type" : "ItemType_NULL" }
+		],
+		"steps" : 10,
+		"target" : 0,
+                "level2" : 800,
+                "level3" : 1000
+	},
+	"2" : {
+                "size" : {
+                        "row" : 7,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":4, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 6, "type" : "ItemType_NULL" }
+		],
+		"steps" : 15,
+		"target" : 0,
+                "level2" : 1200,
+                "level3" : 1400
+	},
+        "3" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":4, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 5, "type" : "ItemType_NULL" },		
+			{ "x":7, "y" : 2, "type" : "ItemType_NULL" }
+		],
+		"steps" : 15,
+		"target" : 0,
+                "level2" : 1200,
+                "level3" : 1400
+	},
+        "4" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":4, "y" : 5, "type" : "ItemType_Drop" }
+		],
+		"steps" : 15,
+		"target" : 1,
+                "level2" : 1400,
+                "level3" : 2000
+	},
+        "5" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 7
+                },
+		"map" : [
+			{ "x":0, "y" : 0, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 4, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 6, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 6, "type" : "ItemType_Drop" },
+                        { "x":5, "y" : 6, "type" : "ItemType_Drop" }
+		],
+		"steps" : 20,
+		"target" : 1,
+                "level2" : 1600,
+                "level3" : 2000
+	},
+        "6" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":4, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 5, "type" : "ItemType_NULL" },		
+			{ "x":7, "y" : 2, "type" : "ItemType_NULL" },
+                        { "x":1, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":5, "y" : 6, "type" : "ItemType_Drop" }
+		],
+		"steps" : 20,
+		"target" : 1,
+                "level2" : 1600,
+                "level3" : 2000
+	},
+        "7" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":1, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":2, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":3, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":4, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":5, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":6, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":7, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":2, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":5, "y" : 6, "type" : "ItemType_Drop" }
+		],
+		"steps" : 20,
+		"target" : 1,
+                "level2" : 1600,
+                "level3" : 2000
+	},
+        "8" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 2, "type" : "ItemType_Break" },
+			{ "x":1, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":2, "y" : 4, "type" : "ItemType_Break" },
+			{ "x":3, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":4, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":5, "y" : 4, "type" : "ItemType_Break" },
+			{ "x":6, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":7, "y" : 2, "type" : "ItemType_Break" },
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":2, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":7, "y" : 5, "type" : "ItemType_NULL" }
+		],
+		"steps" : 20,
+		"target" : 1,
+                "level2" : 1600,
+                "level3" : 2000
+	},
+        "9" : {
+                "size" : {
+                        "row" : 8,
+                        "column" : 8
+                },
+		"map" : [
+			{ "x":0, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":2, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":4, "y" : 7, "type" : "ItemType_NULL" },
+			{ "x":5, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 1, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 4, "type" : "ItemType_NULL" },
+			{ "x":3, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":3, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":4, "y" : 3, "type" : "ItemType_Break" },
+			{ "x":4, "y" : 6, "type" : "ItemType_Drop" },
+			{ "x":6, "y" : 4, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 5, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":0, "y" : 4, "type" : "ItemType_NULL" },
+			{ "x":1, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":6, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 2, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 3, "type" : "ItemType_NULL" },
+			{ "x":7, "y" : 4, "type" : "ItemType_NULL" }
+		],
+		"steps" : 20,
+		"target" : 1,
+                "level2" : 1600,
+                "level3" : 2000
+	}
+}
